@@ -1,1 +1,1 @@
-# Kibana-Alerting
+# ElasticSearch-Alerting
